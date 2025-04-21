@@ -35,4 +35,8 @@ here, I post problems of leetcode with solutions using JAVA
 | ------- |
 | [0054-spiral-matrix](https://github.com/arpitgupta088/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/arpitgupta088/LeetCode/tree/master/0898-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/arpitgupta088/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
