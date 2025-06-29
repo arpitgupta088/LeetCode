@@ -11,6 +11,7 @@ here, I post problems of leetcode with solutions using JAVA
 | [0054-spiral-matrix](https://github.com/arpitgupta088/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/arpitgupta088/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitgupta088/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitgupta088/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0898-transpose-matrix](https://github.com/arpitgupta088/LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ here, I post problems of leetcode with solutions using JAVA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arpitgupta088/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitgupta088/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
