@@ -8,6 +8,7 @@ here, I post problems of leetcode with solutions using JAVA
 | ------- |
 | [0001-two-sum](https://github.com/arpitgupta088/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/arpitgupta088/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/arpitgupta088/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arpitgupta088/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/arpitgupta088/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitgupta088/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ here, I post problems of leetcode with solutions using JAVA
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arpitgupta088/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/arpitgupta088/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitgupta088/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -68,4 +70,8 @@ here, I post problems of leetcode with solutions using JAVA
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arpitgupta088/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/arpitgupta088/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
