@@ -54,6 +54,7 @@ here, I post problems of leetcode with solutions using JAVA
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arpitgupta088/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arpitgupta088/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/arpitgupta088/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/arpitgupta088/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -97,6 +98,11 @@ here, I post problems of leetcode with solutions using JAVA
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arpitgupta088/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/arpitgupta088/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/arpitgupta088/LeetCode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/arpitgupta088/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
