@@ -75,6 +75,7 @@ here, I post problems of leetcode with solutions using JAVA
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitgupta088/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arpitgupta088/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/arpitgupta088/LeetCode/tree/master/0143-reorder-list) |
 ## Monotonic Stack
@@ -113,6 +114,7 @@ here, I post problems of leetcode with solutions using JAVA
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/arpitgupta088/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/arpitgupta088/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arpitgupta088/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arpitgupta088/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
