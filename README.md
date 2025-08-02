@@ -78,6 +78,7 @@ here, I post problems of leetcode with solutions using JAVA
 | [0020-valid-parentheses](https://github.com/arpitgupta088/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arpitgupta088/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/arpitgupta088/LeetCode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/arpitgupta088/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,4 +137,12 @@ here, I post problems of leetcode with solutions using JAVA
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arpitgupta088/LeetCode/tree/master/0100-same-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arpitgupta088/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/arpitgupta088/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
