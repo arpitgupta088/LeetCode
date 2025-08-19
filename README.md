@@ -7,6 +7,7 @@ here, I post problems of leetcode with solutions using JAVA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpitgupta088/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arpitgupta088/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/arpitgupta088/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/arpitgupta088/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/arpitgupta088/LeetCode/tree/master/0054-spiral-matrix) |
@@ -28,6 +29,7 @@ here, I post problems of leetcode with solutions using JAVA
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitgupta088/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arpitgupta088/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/arpitgupta088/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/arpitgupta088/LeetCode/tree/master/0075-sort-colors) |
@@ -148,4 +150,8 @@ here, I post problems of leetcode with solutions using JAVA
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/arpitgupta088/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arpitgupta088/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arpitgupta088/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
