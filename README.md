@@ -26,6 +26,7 @@ here, I post problems of leetcode with solutions using JAVA
 | [0142-linked-list-cycle-ii](https://github.com/arpitgupta088/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arpitgupta088/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/arpitgupta088/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/arpitgupta088/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ here, I post problems of leetcode with solutions using JAVA
 | [0075-sort-colors](https://github.com/arpitgupta088/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitgupta088/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/arpitgupta088/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/arpitgupta088/LeetCode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +122,7 @@ here, I post problems of leetcode with solutions using JAVA
 | [0012-integer-to-roman](https://github.com/arpitgupta088/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/arpitgupta088/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/arpitgupta088/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/arpitgupta088/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/arpitgupta088/LeetCode/tree/master/0344-reverse-string) |
 ## Tree
 |  |
