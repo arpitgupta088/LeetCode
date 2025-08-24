@@ -16,6 +16,7 @@ here, I post problems of leetcode with solutions using JAVA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitgupta088/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/arpitgupta088/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arpitgupta088/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0792-binary-search](https://github.com/arpitgupta088/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/arpitgupta088/LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -157,4 +158,8 @@ here, I post problems of leetcode with solutions using JAVA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitgupta088/LeetCode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/arpitgupta088/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
